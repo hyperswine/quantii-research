@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-nocheck
 
 const lightCodeTheme = require("prism-react-renderer/themes/github")
 const darkCodeTheme = require("prism-react-renderer/themes/dracula")
@@ -9,15 +9,15 @@ const katex = require("rehype-katex")
 const config = {
   title: "Jasen's Projects",
   tagline: "Is it possible for things to just work?",
-  url: "https://n.project-spectre.info",
+  url: "https://research.quantii.dev",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/Rei-Light.png",
+  favicon: "img/Quantii.png",
 
   // If you aren't using GitHub pages, you don't need these
   organizationName: "hyperswine",
-  projectName: "projects",
+  projectName: "quantii-research",
 
   i18n: {
     defaultLocale: "en",

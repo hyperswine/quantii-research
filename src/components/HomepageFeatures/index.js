@@ -30,6 +30,7 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <div className="row">
+          <img src={Quantii} />
           Quantii Research.
         </div>
       </div>

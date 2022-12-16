@@ -21,7 +21,7 @@ function HomepageHeader() {
 export default function Home() {
   const { siteConfig } = useDocusaurusContext()
   return (
-    <Layout description="A site detailing plans for world domination">
+    <Layout description="Quantii Research Articles">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
