@@ -7,8 +7,8 @@ const katex = require("rehype-katex")
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Jasen's Projects",
-  tagline: "Is it possible for things to just work?",
+  title: "Quantii Research",
+  tagline: "The Next Step.",
   url: "https://research.quantii.dev",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -51,6 +51,10 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+        blog: {
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
+        },
       }),
     ],
   ],
@@ -74,7 +78,7 @@ const config = {
           {
             type: "docSidebar",
             position: "left",
-            label: "Project List",
+            label: "Research Papers",
             sidebarId: "main"
           },
           {
@@ -88,6 +92,7 @@ const config = {
             label: "GitHub",
             position: "right",
           },
+          { to: 'blog', label: 'Blog', position: 'left' },
         ],
       },
       prism: {
