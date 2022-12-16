@@ -6,4 +6,6 @@ url: https://github.com/hyperswine
 email: jasen.qin33@gmail.com
 ---
 
-Performance is great.
+## What is performance and why do we care?
+
+That is a great question.
