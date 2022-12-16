@@ -1,0 +1,1 @@
+(self.webpackChunkquantii_research=self.webpackChunkquantii_research||[]).push([[525],{5525:()=>{}}]);
