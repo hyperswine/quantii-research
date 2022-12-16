@@ -88,7 +88,7 @@ const config = {
             position: 'left',
           },
           {
-            href: "https://github.com/hyperswine/projects",
+            href: "https://github.com/hyperswine/quantii-research",
             label: "GitHub",
             position: "right",
           },
