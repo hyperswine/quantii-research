@@ -25,7 +25,7 @@ const FeaturedArticlesList = [
 
 function FeaturedArticle({ Img, title, description, main_link }) {
   return (
-    <div className={clsx("col col--4")} style={{ borderStyle: "solid", marginRight: "1rem" }}>
+    <div style={{ borderStyle: "solid", marginRight: "1rem", display: "flex" }}>
       <div className="text--center">
         <img src={Img} />
       </div>
