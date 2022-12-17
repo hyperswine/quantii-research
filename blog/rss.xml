@@ -14,7 +14,8 @@
             <guid>/performance-post</guid>
             <pubDate>Sat, 17 Dec 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[What is performance and why do we care?]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-performance-and-why-do-we-care">What is performance and why do we care?<a class="hash-link" href="#what-is-performance-and-why-do-we-care" title="Direct link to heading">​</a></h2><p>That is a great question.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-performance-and-why-do-we-care">What is performance and why do we care?<a class="hash-link" href="#what-is-performance-and-why-do-we-care" title="Direct link to heading">​</a></h2><p>That is a great question.</p><hr><h2 style="text-align:center">Discuss</h2><p><giscus-widget repo="hyperswine/projects" repoid="R_kgDOIZg-sQ" category="Announcements" categoryid="DIC_kwDOIZg-sc4CSmin" mapping="pathname" strict="0" reactionsenabled="1" emitmetadata="0" inputposition="top" theme="preferred_color_scheme" lang="en" loading="lazy" crossorigin="anonymous">
+</giscus-widget></p>]]></content:encoded>
         </item>
     </channel>
 </rss>
