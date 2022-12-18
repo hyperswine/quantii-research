@@ -4,10 +4,19 @@
         <title>Quantii Research Blog</title>
         <link>https://research.quantii.dev/blog</link>
         <description>Quantii Research Blog</description>
-        <lastBuildDate>Sat, 17 Dec 2022 10:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 10:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Instruction Set Architecture from First Principles: Part 1]]></title>
+            <link>https://research.quantii.dev/blog/isa-pt1</link>
+            <guid>/isa-pt1</guid>
+            <pubDate>Sun, 18 Dec 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Instructions are imperative by default on atomic execution environments. This is probably because digital electronics are ubiquitous and hence most modern atomic instructions are built from discrete signals. If it was built from continuous signals, perhaps we could have something quite different, and not imperative. I think its still possible to have "declarative" instructions.]]></description>
+            <content:encoded><![CDATA[<p>Instructions are imperative by default on atomic execution environments. This is probably because digital electronics are ubiquitous and hence most modern atomic instructions are built from discrete signals. If it was built from continuous signals, perhaps we could have something quite different, and not imperative. I think its still possible to have "declarative" instructions.</p><hr><h2 style="text-align:center">Discuss</h2><p><giscus-widget repo="hyperswine/projects" repoid="R_kgDOIZg-sQ" category="Announcements" categoryid="DIC_kwDOIZg-sc4CSmin" mapping="pathname" strict="0" reactionsenabled="1" emitmetadata="0" inputposition="top" theme="preferred_color_scheme" lang="en" loading="lazy" crossorigin="anonymous">
+</giscus-widget></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Performance Considerations, Pt. 1]]></title>
             <link>https://research.quantii.dev/blog/performance-post</link>

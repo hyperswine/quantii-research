@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkquantii_research=self.webpackChunkquantii_research||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"All posts","items":[{"title":"Performance Considerations, Pt. 1","permalink":"/blog/performance-post"}]}')}}]);
