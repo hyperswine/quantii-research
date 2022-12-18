@@ -6,10 +6,15 @@ import QuantiiResearch from "/static/img/Quantii-Research.png"
 import InfoCard from "./card"
 
 const FeaturedArticlesList = [
+  // {
+  //   title: <a href="../docs/base/kernels-and-utility">Kernels</a>,
+  //   Img: null,
+  //   description: <>Kernels: Utility and Foundation</>,
+  // },
   {
-    title: <a href="../docs/base/kernels-and-utility">Kernels</a>,
+    title: <a href="../blog/isa-pt1-">ISA Pt. 1</a>,
     Img: null,
-    description: <>Kernels: Utility and Foundation</>,
+    description: <>[Blog] Instruction Set Architecture from First Principles: Part 1</>,
   },
   {
     title: <a href="../blog/performance-post">Performance</a>,
