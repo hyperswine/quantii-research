@@ -1,7 +1,7 @@
 ---
 date: 2022-12-18T10:00
 name: Jasen Qin
-title: Instruction Set Architecture from First Principles: Part 1
+title: "Instruction Set Architecture from First Principles: Part 1"
 url: https://github.com/hyperswine
 email: jasen.qin33@gmail.com
 ---
