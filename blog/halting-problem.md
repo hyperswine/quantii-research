@@ -1,14 +1,14 @@
 ---
-date: 2022-12-17T10:00
+date: 2022-12-21
 name: Jasen Qin
-title: Performance Considerations, Pt. 1
+title: Halting Problem
 url: https://github.com/hyperswine
 email: jasen.qin33@gmail.com
 ---
 
-**What is performance and why do we care?**
+The halting problem is quite simple yet complex. It can be applied to many situations. Many types of programs can be reduced to a formulation of the halting problem, and it is useful in ensuruing a program doesn't just hang there doing nothing.
 
-That is a great question.
+Of interest are total functional programming languages. These langs are "probably terminating".
 
 ---
 
