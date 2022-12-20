@@ -8,7 +8,7 @@ email: jasen.qin33@gmail.com
 
 The halting problem is quite simple yet complex. It can be applied to many situations. Many types of programs can be reduced to a formulation of the halting problem, and it is useful in ensuruing a program doesn't just hang there doing nothing.
 
-Of interest are total functional programming languages. These langs are "probably terminating".
+Of interest are total functional programming languages. These langs are "provably terminating", i.e. you can guarentee statically that they will eventually halt.
 
 ---
 
