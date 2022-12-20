@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://research.quantii.dev/blog</id>
     <title>Quantii Research Blog</title>
-    <updated>2022-12-18T10:00:00.000Z</updated>
+    <updated>2022-12-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://research.quantii.dev/blog"/>
     <subtitle>Quantii Research Blog</subtitle>
     <icon>https://research.quantii.dev/img/Quantii.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Halting Problem]]></title>
+        <id>/halting-problem</id>
+        <link href="https://research.quantii.dev/blog/halting-problem"/>
+        <updated>2022-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The halting problem is quite simple yet complex. It can be applied to many situations. Many types of programs can be reduced to a formulation of the halting problem, and it is useful in ensuruing a program doesn't just hang there doing nothing.]]></summary>
+        <content type="html"><![CDATA[<p>The halting problem is quite simple yet complex. It can be applied to many situations. Many types of programs can be reduced to a formulation of the halting problem, and it is useful in ensuruing a program doesn't just hang there doing nothing.</p><p>Of interest are total functional programming languages. These langs are "probably terminating".</p><hr><h2 style="text-align:center">Discuss</h2><p><giscus-widget repo="hyperswine/projects" repoid="R_kgDOIZg-sQ" category="Announcements" categoryid="DIC_kwDOIZg-sc4CSmin" mapping="pathname" strict="0" reactionsenabled="1" emitmetadata="0" inputposition="top" theme="preferred_color_scheme" lang="en" loading="lazy" crossorigin="anonymous">
+</giscus-widget></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Instruction Set Architecture from First Principles: Part 1]]></title>
         <id>/isa-pt1</id>
@@ -22,7 +31,7 @@
         <link href="https://research.quantii.dev/blog/performance-post"/>
         <updated>2022-12-17T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[What is performance and why do we care?]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-performance-and-why-do-we-care">What is performance and why do we care?<a class="hash-link" href="#what-is-performance-and-why-do-we-care" title="Direct link to heading">​</a></h2><p>That is a great question.</p><hr><h2 style="text-align:center">Discuss</h2><p><giscus-widget repo="hyperswine/projects" repoid="R_kgDOIZg-sQ" category="Announcements" categoryid="DIC_kwDOIZg-sc4CSmin" mapping="pathname" strict="0" reactionsenabled="1" emitmetadata="0" inputposition="top" theme="preferred_color_scheme" lang="en" loading="lazy" crossorigin="anonymous">
+        <content type="html"><![CDATA[<p><strong>What is performance and why do we care?</strong></p><p>That is a great question.</p><hr><h2 style="text-align:center">Discuss</h2><p><giscus-widget repo="hyperswine/projects" repoid="R_kgDOIZg-sQ" category="Announcements" categoryid="DIC_kwDOIZg-sc4CSmin" mapping="pathname" strict="0" reactionsenabled="1" emitmetadata="0" inputposition="top" theme="preferred_color_scheme" lang="en" loading="lazy" crossorigin="anonymous">
 </giscus-widget></p>]]></content>
     </entry>
 </feed>

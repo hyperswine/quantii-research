@@ -4,10 +4,19 @@
         <title>Quantii Research Blog</title>
         <link>https://research.quantii.dev/blog</link>
         <description>Quantii Research Blog</description>
-        <lastBuildDate>Sun, 18 Dec 2022 10:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Halting Problem]]></title>
+            <link>https://research.quantii.dev/blog/halting-problem</link>
+            <guid>/halting-problem</guid>
+            <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[The halting problem is quite simple yet complex. It can be applied to many situations. Many types of programs can be reduced to a formulation of the halting problem, and it is useful in ensuruing a program doesn't just hang there doing nothing.]]></description>
+            <content:encoded><![CDATA[<p>The halting problem is quite simple yet complex. It can be applied to many situations. Many types of programs can be reduced to a formulation of the halting problem, and it is useful in ensuruing a program doesn't just hang there doing nothing.</p><p>Of interest are total functional programming languages. These langs are "probably terminating".</p><hr><h2 style="text-align:center">Discuss</h2><p><giscus-widget repo="hyperswine/projects" repoid="R_kgDOIZg-sQ" category="Announcements" categoryid="DIC_kwDOIZg-sc4CSmin" mapping="pathname" strict="0" reactionsenabled="1" emitmetadata="0" inputposition="top" theme="preferred_color_scheme" lang="en" loading="lazy" crossorigin="anonymous">
+</giscus-widget></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Instruction Set Architecture from First Principles: Part 1]]></title>
             <link>https://research.quantii.dev/blog/isa-pt1</link>
@@ -23,7 +32,7 @@
             <guid>/performance-post</guid>
             <pubDate>Sat, 17 Dec 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[What is performance and why do we care?]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-performance-and-why-do-we-care">What is performance and why do we care?<a class="hash-link" href="#what-is-performance-and-why-do-we-care" title="Direct link to heading">​</a></h2><p>That is a great question.</p><hr><h2 style="text-align:center">Discuss</h2><p><giscus-widget repo="hyperswine/projects" repoid="R_kgDOIZg-sQ" category="Announcements" categoryid="DIC_kwDOIZg-sc4CSmin" mapping="pathname" strict="0" reactionsenabled="1" emitmetadata="0" inputposition="top" theme="preferred_color_scheme" lang="en" loading="lazy" crossorigin="anonymous">
+            <content:encoded><![CDATA[<p><strong>What is performance and why do we care?</strong></p><p>That is a great question.</p><hr><h2 style="text-align:center">Discuss</h2><p><giscus-widget repo="hyperswine/projects" repoid="R_kgDOIZg-sQ" category="Announcements" categoryid="DIC_kwDOIZg-sc4CSmin" mapping="pathname" strict="0" reactionsenabled="1" emitmetadata="0" inputposition="top" theme="preferred_color_scheme" lang="en" loading="lazy" crossorigin="anonymous">
 </giscus-widget></p>]]></content:encoded>
         </item>
     </channel>
