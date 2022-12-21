@@ -55,7 +55,7 @@ export default function HomepageFeatures() {
         </div>
         <hr />
         <div className="column" style={{ padding: '1rem', display: "flex", justifyContent: "center" }}>
-          <img src={Quantii} style={{ marginRight: '2rem' }} />
+          <img src={Quantii} />
           <text style={{ alignSelf: "center" }}>Quantii, a step toward the future.</text>
         </div>
       </div>
