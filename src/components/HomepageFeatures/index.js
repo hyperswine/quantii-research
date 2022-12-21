@@ -30,7 +30,7 @@ const FeaturedArticlesList = [
 
 function FeaturedArticle({ Img, title, description, main_link }) {
   return (
-    <div style={{ borderStyle: "solid", display: "flex", maxWidth: "20rem" }}>
+    <div className={clsx("col col--4")} style={{ borderStyle: "solid" }}>
       <div className="text--center">
         <img src={Img} />
       </div>
@@ -44,21 +44,20 @@ function FeaturedArticle({ Img, title, description, main_link }) {
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.features}>
-
-      <div className="container" style={{ padding: '1rem', display: "flex", flexDirection: "column", alignItems: "centre" }}>
-        <div style={{ display: "flex", flexDirection: "column" }}>
-          <h2 className="text--center" style={{ marginBottom: "2rem" }}>Featured Articles</h2>
-          <div style={{ display: "flex", flexDirection: "row", marginBottom: "2rem", justifyContent: "space-around" }}>
+    <div>
+      <h2 className="text--center" style={{ marginTop: "2rem" }}>Featured Articles</h2>
+      <section className={styles.features}>
+        <div className="container">
+          <div className="row">
             {FeaturedArticlesList.map((props, idx) => (<FeaturedArticle key={idx} {...props} />))}
           </div>
         </div>
-        <hr />
-        <div className="column" style={{ padding: '1rem', display: "flex", justifyContent: "center" }}>
-          <img src={Quantii} />
-          <text style={{ alignSelf: "center" }}>Quantii, a step toward the future.</text>
-        </div>
+      </section>
+      <hr />
+      <div className="column" style={{ padding: '1rem', display: "flex", justifyContent: "center" }}>
+        <img src={Quantii} />
+        <text style={{ alignSelf: "center" }}>Quantii, a step toward the future.</text>
       </div>
-    </section>
+    </div>
   )
 }
