@@ -18,6 +18,13 @@ The spectre ISA is designed for minimalist, functional computing. How do we veri
 
 Now we need to reduce our ISA to a quantisable form we can analyse naturally and rigorously. Probably denotational mathematics or type equations.
 
+Proof.
+
+We want our ISA to have an index >= 1. Assume SpectreISA < 1.
+Instruction Reduction > 0.5, as it is well represented.
+Directness > 0.5 as it is minimal.
+Hence SpectreISA is well defined.
+
 ---
 
 <h2 style={{textAlign: "center"}}>Discuss</h2>
