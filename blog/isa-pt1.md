@@ -16,15 +16,6 @@ The spectre ISA is designed for minimalist, functional computing. How do we veri
 - Encourage directness and low overhead. A language that compiles to it would essentially look the same or similar to what one would expect
 - Encourage expressiveness. No point in a language that that a billion instructions just to do something small. Should be proportional in a logical human centric manner
 
-Now we need to reduce our ISA to a quantisable form we can analyse naturally and rigorously. Probably denotational mathematics or type equations.
-
-Proof.
-
-We want our ISA to have an index >= 1. Assume SpectreISA < 1.
-Instruction Reduction > 0.5, as it is well represented.
-Directness > 0.5 as it is minimal.
-Hence SpectreISA is well defined.
-
 ---
 
 <h2 style={{textAlign: "center"}}>Discuss</h2>
